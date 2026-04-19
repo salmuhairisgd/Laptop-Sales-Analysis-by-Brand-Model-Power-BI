@@ -8,7 +8,7 @@ An interactive Power BI Dashboard designed to analyze laptop sales data across v
 
 **Hardware Trends:** Visualization of storage preferences, highlighting the dominance of different capacities (from 32GB to 2TB) and storage technologies.
 
-***Specification Filtering:** Ability to segment sales based on "Touch Screen" features and storage configurations.
+**Specification Filtering:** Ability to segment sales based on "Touch Screen" features and storage configurations.
 
 ## Tech Stack
 Power BI: Data visualization and multi-layered dashboard design.
