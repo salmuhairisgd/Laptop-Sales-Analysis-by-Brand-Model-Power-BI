@@ -22,11 +22,15 @@ Data Modeling: Creating relationships between brands, models, and technical spec
 
 
 ## How to Use
-Download the .pbix file from the repository.
+To explore the interactive report:
 
-Filter the data using the Touch Screen or Storage Type slicers at the top to see how specifications affect sales and ratings.
+1- Download the `Laptop sales brand` file from this repository.
 
-Explore the Top 5 Models chart to see which high-end laptops (like Dell Alienware or Apple MacBook Pro) are driving revenue.
+2- Open the file using **Power BI Desktop**.
+
+3- Filter the data using the Touch Screen or Storage Type slicers at the top to see how specifications affect sales and ratings.
+
+4- Explore the Top 5 Models chart to see which high-end laptops (like Dell Alienware or Apple MacBook Pro) are driving revenue.
 
 ### Dashboard in Action
 Here are examples of how the interactive filters work
